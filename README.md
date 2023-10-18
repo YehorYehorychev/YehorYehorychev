@@ -1,4 +1,4 @@
-### - 🔭 I am currently working on Google Cloud
+### 🔭 I am currently working on Google Cloud
 
 I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, manual and automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in both manual and automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
 
