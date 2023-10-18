@@ -4,11 +4,15 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 💡 Skills:
 
-n/✅ Test Planning | Test Cases | Bug Reports | Test Documentation
-n/✅ Manual and Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
-/n✅ Proficient in SQL, Java, Swift, Kotlin, Bash, CSS, HTML, XML, CSS, XPath, ORACLE DB, AWS, Chrome DevTools
-/n✅ Back-end Testing | Mobile Device Cloud Testing
-/n✅ Specialized Tools & Frameworks: JAVA Selenium, Appium, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUNIT5, TestNG, Git, GitHub, JIRA, and more
+✅ Test Planning | Test Cases | Bug Reports | Test Documentation
+
+✅ Manual and Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
+
+✅ Proficient in SQL, Java, Swift, Kotlin, Bash, CSS, HTML, XML, CSS, XPath, ORACLE DB, AWS, Chrome DevTools
+
+✅ Back-end Testing | Mobile Device Cloud Testing
+
+✅ Specialized Tools & Frameworks: JAVA Selenium, Appium, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUNIT5, TestNG, Git, GitHub, JIRA, and more
 
 💼 Experience:
 
