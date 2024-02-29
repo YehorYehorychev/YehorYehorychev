@@ -1,5 +1,4 @@
-### 🔭 I am currently working on Google Cloud as iOS/Android Test Engineer
-
+🔭 I am currently working at Google Cloud as an iOS/Android Test Engineer.
 I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, manual and automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in both manual and automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
 
 💡 Skills:
@@ -8,11 +7,11 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 ✅ Manual and Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
 
-✅ Proficient in SQL, Java, Swift, Kotlin, Bash, CSS, HTML, XML, CSS, XPath, ORACLE DB, AWS, Chrome DevTools
+✅ Proficient in SQL, Java, Swift, Kotlin, Bash, CSS, HTML, XML, XPath, ORACLE DB, AWS, Chrome DevTools
 
 ✅ Back-end Testing | Mobile Device Cloud Testing
 
-✅ Specialized Tools & Frameworks: JAVA Selenium, Appium, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUNIT5, TestNG, Git, GitHub, JIRA, and more
+✅ Specialized Tools & Frameworks: Java Selenium, Appium, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUnit5, TestNG, Git, GitHub, JIRA, and more
 
 💼 Experience:
 
