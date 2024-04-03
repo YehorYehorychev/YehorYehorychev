@@ -7,7 +7,7 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 ✅ Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
 
-✅ Proficient in SQL, Java, Swift, Kotlin, Bash, CSS, HTML, XML, XPath, ORACLE DB, AWS, Chrome DevTools
+✅ Proficient in Java, TypeScript, Kotlin, Bash, SQL, CSS, HTML, XML, XPath, ORACLE DB, AWS, Chrome DevTools
 
 ✅ Back-end Testing | Mobile Device Cloud Testing
 
