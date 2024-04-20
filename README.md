@@ -7,11 +7,11 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 ✅ Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
 
-✅ Proficient in Java, TypeScript, Kotlin, Bash, SQL, CSS, HTML, XML, XPath, ORACLE DB, AWS, Chrome DevTools
+✅ Proficient in Java, TypeScript, Kotlin, Bash Script, Shell Script, SQL, CSS, HTML, XML, XPath, ORACLE DB, AWS, Chrome DevTools
 
-✅ Back-end Testing | Mobile Device Cloud Testing
+✅ Back-end Testing | Mobile Device Testing
 
-✅ Specialized Tools & Frameworks: Java Selenium, Appium, PlayWright Framework, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUnit5, TestNG, Git, GitHub, JIRA, and more
+✅ Specialized Tools & Frameworks: Selenium, Appium, PlayWright, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUnit5, TestNG, Git, GitHub, JIRA, and more
 
 💼 Experience:
 
