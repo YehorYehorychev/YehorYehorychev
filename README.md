@@ -11,7 +11,7 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 ✅ Back-end Testing | Mobile Device Testing
 
-✅ Specialized Tools & Frameworks: Selenium, Appium, PlayWright, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUnit5, TestNG, Git, GitHub, JIRA, and more
+✅ Specialized Tools & Frameworks: Selenium, Appium, Playwright, Android Studio, ADB, Xcode, Postman, Swagger, Charles Proxy, Maven, JUnit5, TestNG, Git, GitHub, JIRA, and more
 
 💼 Experience:
 
