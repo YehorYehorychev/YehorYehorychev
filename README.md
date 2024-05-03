@@ -1,3 +1,10 @@
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
 🔭 I am currently working at Google Cloud as an iOS/Android Test Engineer.
 I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
 
