@@ -5,8 +5,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 🔭 I am currently working at Google Cloud as an iOS/Android Test Engineer.
 I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
