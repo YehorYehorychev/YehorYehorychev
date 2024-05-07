@@ -15,6 +15,12 @@
 🔭 I am currently working at Google Cloud as an iOS/Android Test Engineer.
 I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
 
+## Tech Stack
+(https://camo.githubusercontent.com/732ddf2ce50bfe055b9721ce45c5927061415bfb9a893682cdc4a12eded9af27/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c747970657363726970742c6a732c70792c626173682c676865726b696e2c68746d6c2c637373)
+(https://camo.githubusercontent.com/732ddf2ce50bfe055b9721ce45c5927061415bfb9a893682cdc4a12eded9af27/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c747970657363726970742c6a732c70792c626173682c676865726b696e2c68746d6c2c637373)
+(https://camo.githubusercontent.com/732ddf2ce50bfe055b9721ce45c5927061415bfb9a893682cdc4a12eded9af27/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c747970657363726970742c6a732c70792c626173682c676865726b696e2c68746d6c2c637373)
+(https://camo.githubusercontent.com/732ddf2ce50bfe055b9721ce45c5927061415bfb9a893682cdc4a12eded9af27/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a6176612c747970657363726970742c6a732c70792c626173682c676865726b696e2c68746d6c2c637373)
+
 💡 Skills:
 
 ✅ Test Planning | Test Cases | Bug Reports | Test Documentation
