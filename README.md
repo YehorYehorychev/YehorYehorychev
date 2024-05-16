@@ -31,4 +31,4 @@ Furthermore, I possess a deep understanding of the SDLC, STLC, SQA standards, an
 I have an unwavering passion for staying updated with emerging technologies and industry trends. I am always open to learning new skills and tools that can enhance my abilities as a Test Engineer. I strongly believe in effective communication, fostering collaboration, and engaging with intellectual peers to drive innovation and continuous improvement.
 
 ## 📬 Contact Me
-[Let's connect on LinkedIn](https://www.linkedin.com/in/egor-egorychev/)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/egor-egorychev/)
