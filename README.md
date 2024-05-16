@@ -6,7 +6,7 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 ## Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,ts,js,cs,py,bash,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,docker,spring,postman,jenkins,androidstudio)](https://skillicons.dev)
-[![DataBases](https://skillicons.dev/icons?i=mysql,sqlite,apple,linux,windows,aws,gcp,git)](https://skillicons.dev)
+[![DataBases](https://skillicons.dev/icons?i=mysql,sqlite,apple,linux,windows,aws,gcp,git,maven)](https://skillicons.dev)
 
 ## 💡 Skills:
 
