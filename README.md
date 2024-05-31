@@ -22,7 +22,7 @@ I'm a highly skilled and results-driven QA Engineer with a passion for ensuring 
 
 ## 💼 Experience:
 
-Throughout my career, I have successfully developed and executed comprehensive test plans, ensuring efficient and effective test coverage. By leveraging my expertise in automation testing, I have significantly reduced testing cycles while maintaining the highest quality standards. My proficiency in utilizing tools and frameworks such as Java Selenium, Selenide and PlayWright has enabled seamless test automation and improved overall efficiency.
+Throughout my career, I have successfully developed and executed comprehensive test plans, ensuring efficient and effective test coverage. By leveraging my expertise in automation testing, I have significantly reduced testing cycles while maintaining the highest quality standards. My proficiency in utilizing tools and frameworks such as Java Selenium, Appium and Playwright has enabled seamless test automation and improved overall efficiency.
 
 Furthermore, I possess a deep understanding of the SDLC, STLC, SQA standards, and industry best practices. This knowledge allows me to consistently deliver exceptional results and ensure the highest level of quality for the entire team.
 
