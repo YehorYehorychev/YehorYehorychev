@@ -1,9 +1,6 @@
 # Hi, I'm Yehor Yehorychev! 👋
 
-🔭 I am currently working at Google Cloud as an iOS/Android Test Engineer.
-I'm a highly skilled and results-driven QA Engineer with a passion for ensuring software quality through meticulous testing methodologies. My expertise lies in test planning, automation testing, and adhering to best practices throughout the Software Development Life Cycle (SDLC). With a strong background in automation testing, I excel in Functional and GUI evaluation, REST API testing, and Mobile application testing across diverse platforms.
-
-## Tech Stack
+## My Tech Stack
 [![Langs](https://skillicons.dev/icons?i=java,ts,js,cs,py,bash,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,docker,spring,postman,jenkins,androidstudio,maven)](https://skillicons.dev)
 [![DataBases](https://skillicons.dev/icons?i=mysql,sqlite,apple,linux,windows,aws,gcp,git)](https://skillicons.dev)
@@ -28,7 +25,7 @@ Furthermore, I possess a deep understanding of the SDLC, STLC, SQA standards, an
 
 ## 🎓 Passion and Growth:
 
-I have an unwavering passion for staying updated with emerging technologies and industry trends. I am always open to learning new skills and tools that can enhance my abilities as a Test Engineer. I strongly believe in effective communication, fostering collaboration, and engaging with intellectual peers to drive innovation and continuous improvement.
+I have an unwavering passion for staying updated with emerging technologies and industry trends. I am always open to learning new skills and tools that can enhance my abilities as a Test Automation Engineer. I strongly believe in effective communication, fostering collaboration, and engaging with intellectual peers to drive innovation and continuous improvement.
 
 ## 📬 Contact Me
 Let's connect on [LinkedIn](https://www.linkedin.com/in/egor-egorychev/)
