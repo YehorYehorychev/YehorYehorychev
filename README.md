@@ -11,7 +11,7 @@
 
 ✅ Automation Testing: Web-based, Mobile (iOS, Android), Cross-platform
 
-✅ Proficient in Java, TypeScript, Kotlin, Python, C#, Spring Boot, Spring Data JPA, Bash, SQL, CSS, HTML, XPath, ORACLE DB, AWS, Apache Kafka
+✅ Proficient in Java, TypeScript, Kotlin, Python, C#, Spring Boot, Spring Data JPA, Bash, SQL, ORACLE DB, AWS, Apache Kafka
 
 ✅ Back-end Testing | Mobile Device Testing
 
