@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yehor Yehorychev 👋</h1>
+<h1 align="center">Hi there, I'm Yehor Yehorychev </h1>
 
 <p align="center">
   <strong>iOS / Android Test Engineer | Mobile Automation & On-Device AI Enthusiast</strong><br/>
