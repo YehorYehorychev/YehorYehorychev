@@ -16,11 +16,11 @@
 ---
 
 ## 🧑‍💻 About Me
-
-I'm a Test Automation Engineer who lives at the intersection of **mobile, web, and backend testing**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code - because flaky tests are a feature nobody asked for.
-
-Outside of core QA work, I spend a lot of time exploring **on-device LLMs and local AI tooling** - running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
-
+ 
+I'm a Test Automation Engineer who lives at the intersection of **mobile, web, and backend testing**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code — because flaky tests are a feature nobody asked for.
+ 
+Outside of core QA work, I spend a lot of time exploring **on-device LLMs and local AI tooling** — running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
+ 
 - 🔭 Currently working on **iOS & Android test infrastructure**
 - 🤖 Experimenting with **local LLMs**: Gemini, Gemma 3 1B, Qwen 2.5 Instruct (4-bit quantized), Apple MLX, and Ollama
 - 🌱 Always exploring new frameworks, languages, and CI/CD patterns
@@ -58,16 +58,16 @@ Outside of core QA work, I spend a lot of time exploring **on-device LLMs and lo
 ---
 
 ## 💡 What I Do
-
+ 
 | Area | Focus |
 |---|---|
-| **Test Strategy** | Test planning, coverage analysis, risk-based prioritization, documentation |
-| **Mobile Automation** | iOS & Android - native, hybrid, and cross-platform with Appium and XCUITest/Espresso |
-| **Web Automation** | End-to-end suites with Selenium, Playwright, and custom page-object frameworks |
-| **Backend & API** | REST/GraphQL testing, contract validation, DB verification, Kafka message flows |
-| **CI/CD** | Jenkins pipelines, Dockerized test environments, parallel execution, reporting |
-| **On-Device AI** | Running and benchmarking quantized LLMs locally, exploring MLX on Apple Silicon |
-| **Quality Culture** | Bug triage, reproducibility, SDLC/STLC practices, cross-functional collaboration |
+| 🗺️ **Test Strategy** | Test planning, coverage analysis, risk-based prioritization, documentation |
+| 📱 **Mobile Automation** | iOS & Android — native, hybrid, and cross-platform with Appium and XCUITest/Espresso |
+| 🌐 **Web Automation** | End-to-end suites with Selenium, Playwright, and custom page-object frameworks |
+| 🔌 **Backend & API** | REST/GraphQL testing, contract validation, DB verification, Kafka message flows |
+| ⚙️ **CI/CD** | Jenkins pipelines, Dockerized test environments, parallel execution, reporting |
+| 🤖 **On-Device AI** | Running and benchmarking quantized LLMs locally, exploring MLX on Apple Silicon |
+| 🤝 **Quality Culture** | Bug triage, reproducibility, SDLC/STLC practices, cross-functional collaboration |
 
 ---
 
@@ -103,12 +103,16 @@ I enjoy taking modern language models off the cloud and running them locally. A 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YehorYehorychev&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YehorYehorychev&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
-</p>
+📊 GitHub Stats
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=YehorYehorychev&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="195" alt="GitHub Streak" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YehorYehorychev&theme=tokyonight" height="175" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehorYehorychev&theme=tokyonight" height="175" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehorYehorychev&theme=tokyonight" height="175" alt="Most commit language" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YehorYehorychev&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
