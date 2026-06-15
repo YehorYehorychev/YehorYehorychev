@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yehor Yehorychev </h1>
 
 <p align="center">
-  <strong>iOS / Android Test Engineer | Mobile Automation & On-Device AI Enthusiast</strong><br/>
+  <strong> Software Developer In Test | Mobile Automation & On-Device AI Enthusiast</strong><br/>
   <em>Shipping quality across platforms - one automated test at a time.</em>
 </p>
 
@@ -17,9 +17,9 @@
 
 ## 🧑‍💻 About Me
  
-I'm a Test Automation Engineer who lives at the intersection of **mobile, web, and backend testing**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code — because flaky tests are a feature nobody asked for.
+I'm a Software Developer In Test who lives at the intersection of **mobile, web, and backend testing**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code — because flaky tests are a feature nobody asked for.
  
-Outside of core QA work, I spend a lot of time exploring **on-device LLMs and local AI tooling** — running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
+Outside of core SDET work, I spend a lot of time exploring **on-device LLMs and local AI tooling** — running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
  
 - 🔭 Currently working on **iOS & Android test infrastructure**
 - 🤖 Experimenting with **local LLMs**: Gemini, Gemma 3 1B, Qwen 2.5 Instruct (4-bit quantized), Apple MLX, and Ollama
