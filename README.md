@@ -19,7 +19,7 @@
  
 I'm a Sr. SDET who lives at the intersection of **mobile, web, and backend**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code - because flaky tests are a feature nobody asked for.
  
-Outside of core Software Engineer work, I spend a lot of time exploring **on-device LLMs and local AI tooling** - running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
+Outside of core SDET work, I spend a lot of time exploring **on-device LLMs and local AI tooling** - running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
  
 - 🔭 Currently working on **iOS & Android test infrastructure**
 - 🤖 Experimenting with **local LLMs**: Gemini, Gemma 3 1B, Qwen 2.5 Instruct (4-bit quantized), Apple MLX, and Ollama
@@ -62,7 +62,7 @@ Outside of core Software Engineer work, I spend a lot of time exploring **on-dev
 | Area | Focus |
 |---|---|
 | 🗺️ **Test Strategy** | Test planning, coverage analysis, risk-based prioritization, documentation |
-| 📱 **Mobile Automation** | iOS & Android — native, hybrid, and cross-platform with Appium and XCUITest/Espresso |
+| 📱 **Mobile Automation** | iOS & Android - native, hybrid, and cross-platform with Appium and XCUITest/Espresso |
 | 🌐 **Web Automation** | End-to-end suites with Selenium, Playwright, and custom page-object frameworks |
 | 🔌 **Backend & API** | REST/GraphQL testing, contract validation, DB verification, Kafka message flows |
 | ⚙️ **CI/CD** | Jenkins pipelines, Dockerized test environments, parallel execution, reporting |
@@ -118,7 +118,7 @@ I enjoy taking modern language models off the cloud and running them locally. A 
 
 ## 📬 Let's Connect
 
-I'm always open to connecting with other QA engineers, developers, and anyone who cares about building reliable software - or anyone tinkering with local LLMs.
+I'm always open to connecting with other Software Engineers and anyone who cares about building reliable software - or anyone tinkering with local LLMs.
 
 <p>
   <a href="https://www.linkedin.com/in/egor-egorychev/">
