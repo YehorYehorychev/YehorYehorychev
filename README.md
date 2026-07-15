@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yehor Yehorychev </h1>
 
 <p align="center">
-  <strong> Software Developer In Test | Mobile Automation & On-Device AI Enthusiast</strong><br/>
+  <strong> Senior Software Development Engineer in Test & On-Device AI Enthusiast</strong><br/>
   <em>Shipping quality across platforms - one automated test at a time.</em>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
  
-I'm a Software Developer In Test who lives at the intersection of **mobile, web, and backend testing**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code — because flaky tests are a feature nobody asked for.
+I'm a Sr. SDET who lives at the intersection of **mobile, web, and backend**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code — because flaky tests are a feature nobody asked for.
  
 Outside of core SDET work, I spend a lot of time exploring **on-device LLMs and local AI tooling** — running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
  
