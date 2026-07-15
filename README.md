@@ -19,7 +19,7 @@
  
 I'm a Sr. SDET who lives at the intersection of **mobile, web, and backend**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code - because flaky tests are a feature nobody asked for.
  
-Outside of core SDET work, I spend a lot of time exploring **on-device LLMs and local AI tooling** — running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
+Outside of core Software Engineer work, I spend a lot of time exploring **on-device LLMs and local AI tooling** - running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
  
 - 🔭 Currently working on **iOS & Android test infrastructure**
 - 🤖 Experimenting with **local LLMs**: Gemini, Gemma 3 1B, Qwen 2.5 Instruct (4-bit quantized), Apple MLX, and Ollama
