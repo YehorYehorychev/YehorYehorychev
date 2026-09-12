@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yehor Yehorychev </h1>
 
 <p align="center">
-  <strong> Senior Software Development Engineer in Test & On-Device AI Enthusiast</strong><br/>
+  <strong> Senior Software Engineer & On-Device AI Enthusiast</strong><br/>
   <em>Shipping quality across platforms - one automated test at a time.</em>
 </p>
 
