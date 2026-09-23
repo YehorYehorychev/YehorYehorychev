@@ -84,7 +84,7 @@ Across my projects and engineering work, I've designed and built:
 | Area | Technologies |
 |---|---|
 | **Languages** | Swift · Python · Java · TypeScript · JavaScript · C# · Kotlin · Bash |
-| **Mobile** | SwiftUI · XCUITest · Appium · WebdriverIO · Espresso · Android |
+| **Mobile** | SwiftUI · XCUITest · Appium · WebdriverIO · Espresso |
 | **Web & Automation** | Playwright · Selenium · Selenide · React · Vite |
 | **Backend** | Spring Boot · Node.js · REST · PostgreSQL · MySQL |
 | **Infrastructure** | Docker · GitHub Actions · Jenkins · Fastlane · AWS · GCP · BrowserStack |
