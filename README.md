@@ -34,6 +34,9 @@ CI orchestration, parallel execution systems, engineering dashboards, custom run
 **Mobile Engineering**  
 Swift, SwiftUI, XCUITest, Appium, WebdriverIO, Espresso, Android, iOS, device infrastructure, simulators, and cloud device platforms.
 
+**Web Automation & Framework Architecture**  
+Designing scalable automation frameworks from scratch with Playwright, Selenium, and Selenide, including reusable architecture, parallel execution, reporting, API integration, and CI/CD support.
+
 **Backend & APIs**  
 Java, Spring Boot, Node.js, REST APIs, PostgreSQL, MySQL, service architecture, database migrations, and API integrations.
 
@@ -64,6 +67,7 @@ Its engineering stack includes SwiftUI, SwiftData, Apple Foundation Models, an o
 
 Across my projects and engineering work, I've designed and built:
 
+- Automation frameworks from scratch with Playwright, Selenium, Selenide, XCUITest, Appium, and WebdriverIO
 - Python-based orchestration for distributing XCUITest execution across multiple iOS simulators
 - CI/CD systems using GitHub Actions, Jenkins, Fastlane, Docker, and cloud device platforms
 - Internal engineering dashboards, utilities, reporting systems, and developer productivity tools
@@ -81,7 +85,7 @@ Across my projects and engineering work, I've designed and built:
 |---|---|
 | **Languages** | Swift · Python · Java · TypeScript · JavaScript · C# · Kotlin · Bash |
 | **Mobile** | SwiftUI · XCUITest · Appium · WebdriverIO · Espresso · Android |
-| **Web** | React · Playwright · Selenium · Vite |
+| **Web & Automation** | Playwright · Selenium · Selenide · React · Vite |
 | **Backend** | Spring Boot · Node.js · REST · PostgreSQL · MySQL |
 | **Infrastructure** | Docker · GitHub Actions · Jenkins · Fastlane · AWS · GCP · BrowserStack |
 | **AI & Developer Tools** | Claude Code · OpenAI APIs · Apple Foundation Models · Google Gemini · Google Gemma · Qwen · MCP · MLX · Ollama |
