@@ -1,129 +1,113 @@
-<h1 align="center">Hi there, I'm Yehor Yehorychev </h1>
+<h1 align="center">Yehor Yehorychev</h1>
 
 <p align="center">
-  <strong> Senior Software Engineer & On-Device AI Enthusiast</strong><br/>
-  <em>Shipping quality across platforms - one automated test at a time.</em>
+  <strong>Senior Software Engineer / SDET</strong><br/>
+  Developer Tooling · CI/CD · Mobile · Backend · Automation Infrastructure · Applied AI
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/egor-egorychev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Automation-34A853?style=for-the-badge" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=YehorYehorychev&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YehorYehorychev&style=flat&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
- 
-I'm a Senior Software Engineer who lives at the intersection of **mobile, web, and backend**. My day-to-day is about designing resilient test frameworks, catching bugs before users do, and turning manual checklists into reliable pipelines. I care about clean test code just as much as clean production code - because flaky tests are a feature nobody asked for.
- 
-Outside of core SDET work, I spend a lot of time exploring **on-device LLMs and local AI tooling** - running quantized models on laptops and mobile hardware, benchmarking inference performance, and thinking about how generative AI can accelerate test authoring.
- 
-- 🔭 Currently working on **iOS & Android test infrastructure**
-- 🤖 Experimenting with **local LLMs**: Gemini, Gemma 3 1B, Qwen 2.5 Instruct (4-bit quantized), Apple MLX, and Ollama
-- 🌱 Always exploring new frameworks, languages, and CI/CD patterns
-- 💬 Happy to chat about test architecture, mobile automation, or why your pipeline is red
+## About
+
+I'm a Senior Software Engineer and SDET focused on building reliable software, developer tooling, CI/CD infrastructure, automation platforms, and product applications.
+
+My work spans mobile, web, backend, cloud infrastructure, and engineering productivity. I design systems that improve how software is built, validated, shipped, and operated, from CI orchestration and internal engineering tools to native mobile applications, backend services, and AI-assisted development workflows.
+
+I work primarily with Swift, Python, Java, TypeScript, JavaScript, C#, and Kotlin, with experience across iOS, Android, web, backend services, containerized environments, and cloud-based CI systems.
+
+A significant part of my recent work involves applied AI and AI-assisted development, including Claude Code, on-device inference, OpenAI APIs, Apple Foundation Models, Google Gemini, Google Gemma, Qwen, local LLMs, Model Context Protocol integrations, and developer tooling.
 
 ---
 
-## 🛠️ My Tech Stack
+## Engineering Focus
 
-**Languages**
+**Developer Tooling & Infrastructure**  
+CI orchestration, parallel execution systems, engineering dashboards, custom runners, internal tools, reporting systems, and workflow automation.
 
-[![Langs](https://skillicons.dev/icons?i=java,ts,js,cs,py,kotlin,swift,bash,html,css)](https://skillicons.dev)
+**Mobile Engineering**  
+Swift, SwiftUI, XCUITest, Appium, WebdriverIO, Espresso, Android, iOS, device infrastructure, simulators, and cloud device platforms.
 
-**Frameworks & Tools**
+**Backend & APIs**  
+Java, Spring Boot, Node.js, REST APIs, PostgreSQL, MySQL, service architecture, database migrations, and API integrations.
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,docker,spring,postman,jenkins,androidstudio,maven)](https://skillicons.dev)
+**CI/CD & Cloud**  
+GitHub Actions, Jenkins, Fastlane, Docker, Docker Compose, BrowserStack, AWS, GCP, automated execution, and delivery pipelines.
 
-**Databases, Cloud & Platforms**
+**Applied AI**  
+Claude Code, Apple Foundation Models, OpenAI APIs, Google Gemini, Google Gemma, Qwen, MLX, Ollama, Model Context Protocol integrations, local inference, and AI-assisted developer tooling.
 
-[![DataBases](https://skillicons.dev/icons?i=mysql,sqlite,apple,linux,windows,aws,gcp,git)](https://skillicons.dev)
-
-**AI / ML & LLM Tooling**
-
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemma" />
-  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/Apple%20MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple MLX" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+**Quality Engineering**  
+Automation architecture, reliability engineering, test infrastructure, performance validation, API testing, mobile and web automation, and scalable validation systems.
 
 ---
 
-## 💡 What I Do
- 
-| Area | Focus |
+## Product Engineering
+
+### SnugMind
+
+[snugmind.com](https://snugmind.com)
+
+SnugMind is a privacy-first native iOS application built with Swift and SwiftUI. The product combines on-device AI, local-first data architecture, journaling, guided workflows, audio experiences, accessibility, and privacy-focused data handling.
+
+Its engineering stack includes SwiftUI, SwiftData, Apple Foundation Models, an optional cloud AI path, AVFoundation-based audio, automated UI and unit testing, and a React + TypeScript web platform with automated deployment.
+
+---
+
+## Selected Engineering Work
+
+Across my projects and engineering work, I've designed and built:
+
+- Python-based orchestration for distributing XCUITest execution across multiple iOS simulators
+- CI/CD systems using GitHub Actions, Jenkins, Fastlane, Docker, and cloud device platforms
+- Internal engineering dashboards, utilities, reporting systems, and developer productivity tools
+- Cross-platform mobile infrastructure for iOS and Android
+- Backend services and REST APIs with Java, Spring Boot, PostgreSQL, MySQL, and Node.js
+- LLM-powered engineering tools and Model Context Protocol integrations
+- On-device AI workflows and local model experimentation
+- Performance, telemetry, reliability, API, and automated validation systems
+
+---
+
+## Technology
+
+| Area | Technologies |
 |---|---|
-| 🗺️ **Test Strategy** | Test planning, coverage analysis, risk-based prioritization, documentation |
-| 📱 **Mobile Automation** | iOS & Android - native, hybrid, and cross-platform with Appium and XCUITest/Espresso |
-| 🌐 **Web Automation** | End-to-end suites with Selenium, Playwright, and custom page-object frameworks |
-| 🔌 **Backend & API** | REST/GraphQL testing, contract validation, DB verification, Kafka message flows |
-| ⚙️ **CI/CD** | Jenkins pipelines, Dockerized test environments, parallel execution, reporting |
-| 🤖 **On-Device AI** | Running and benchmarking quantized LLMs locally, exploring MLX on Apple Silicon |
-| 🤝 **Quality Culture** | Bug triage, reproducibility, SDLC/STLC practices, cross-functional collaboration |
+| **Languages** | Swift · Python · Java · TypeScript · JavaScript · C# · Kotlin · Bash |
+| **Mobile** | SwiftUI · XCUITest · Appium · WebdriverIO · Espresso · Android |
+| **Web** | React · Playwright · Selenium · Vite |
+| **Backend** | Spring Boot · Node.js · REST · PostgreSQL · MySQL |
+| **Infrastructure** | Docker · GitHub Actions · Jenkins · Fastlane · AWS · GCP · BrowserStack |
+| **AI & Developer Tools** | Claude Code · OpenAI APIs · Apple Foundation Models · Google Gemini · Google Gemma · Qwen · MCP · MLX · Ollama |
 
 ---
 
-## 🤖 LLM & On-Device AI Experience
+## GitHub Activity
 
-I enjoy taking modern language models off the cloud and running them locally. A few areas I've been working with:
-
-- **Google Gemini** - integrating hosted models into tooling and exploratory workflows
-- **Gemma 3 1B** - lightweight on-device inference, great for prototyping and constrained environments
-- **Qwen 2.5 Instruct (4-bit quantized)** - efficient quantized inference for fast local responses
-- **Apple MLX** - running and fine-tuning models natively on Apple Silicon with full GPU/ANE acceleration
-- **Ollama & Hugging Face** - managing local model registries, pulling weights, and swapping models quickly
-- **Applied use cases** - test case generation, log/failure summarization, and turning free-form requirements into structured test artifacts
-
----
-
-## 🎯 What I Bring
-
-- **Framework design** - building maintainable, scalable automation from scratch rather than duct-taping tests together
-- **Cycle time reduction** - turning multi-day regression passes into CI jobs that finish before your coffee
-- **Cross-platform fluency** - comfortable shipping quality on iOS, Android, web, and backend in the same sprint
-- **SDLC depth** - grounded in STLC, SQA standards, and the "why" behind each process, not just the checklist
-- **AI-assisted QA** - practical experience weaving LLMs into the testing workflow instead of treating them as a gimmick
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced observability and flake detection in mobile CI
-- Performance testing patterns for distributed backends
-- Fine-tuning and prompt strategies for small on-device models (Gemma, Qwen) via MLX
-- Leveraging LLM tooling to accelerate test authoring and maintenance
-
----
-
-📊 GitHub Stats
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=YehorYehorychev&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="195" alt="GitHub Streak" />
+
 <br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YehorYehorychev&theme=tokyonight" height="175" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YehorYehorychev&theme=tokyonight" height="175" alt="Repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YehorYehorychev&theme=tokyonight" height="175" alt="Most commit language" />
+
 <br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YehorYehorychev&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
-I'm always open to connecting with other Software Engineers and anyone who cares about building reliable software - or anyone tinkering with local LLMs.
-
-<p>
-  <a href="https://www.linkedin.com/in/egor-egorychev/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center"><em>Thanks for stopping by - feel free to explore my repos below! 👇</em></p>
+<a href="https://www.linkedin.com/in/egor-egorychev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
