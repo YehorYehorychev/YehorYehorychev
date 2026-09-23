@@ -22,7 +22,6 @@ My work spans mobile, web, backend, cloud infrastructure, and engineering produc
 
 I work primarily with Swift, Python, Java, TypeScript, JavaScript, C#, and Kotlin, with experience across iOS, Android, web, backend services, containerized environments, and cloud-based CI systems.
 
-A significant part of my recent work involves applied AI and AI-assisted development, including Claude Code, on-device inference, OpenAI APIs, Apple Foundation Models, Google Gemini, Google Gemma, Qwen, local LLMs, Model Context Protocol integrations, and developer tooling.
 
 ---
 
