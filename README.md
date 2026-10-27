@@ -104,7 +104,7 @@ Across my projects and engineering work, I've designed and built:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YehorYehorychev&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/YehorYehorychev/YehorYehorychev/main/assets/contribution-graph.svg" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
