@@ -104,7 +104,7 @@ Across my projects and engineering work, I've designed and built:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/YehorYehorychev/YehorYehorychev/main/assets/contribution-graph.svg" width="100%" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/YehorYehorychev/YehorYehorychev/main/assets/contribution-graph.svg?v=cb411c05" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
