@@ -1,9 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270" role="img" aria-label="GitHub activity graph is awaiting its first scheduled update">
-<rect width="860" height="270" rx="12" fill="#1a1b27"/>
-<text x="28" y="43" fill="#70a5fd" font-family="Arial,sans-serif" font-size="20" font-weight="600">GitHub Activity</text>
-<line x1="50" y1="211" x2="820" y2="211" stroke="#34364b"/>
-<line x1="50" y1="166" x2="820" y2="166" stroke="#34364b"/>
-<line x1="50" y1="121" x2="820" y2="121" stroke="#34364b"/>
-<text x="430" y="144" text-anchor="middle" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="17">Chart initializing</text>
-<text x="430" y="171" text-anchor="middle" fill="#a9b1d6" font-family="Arial,sans-serif" font-size="12">GitHub Actions will generate the latest contributions.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270" role="img" aria-label="GitHub contributions over the last 31 days">
+<rect width="100%" height="100%" rx="12" fill="#1a1b27"/>
+<text x="24" y="27" font-size="17" font-family="Arial,sans-serif" font-weight="600" fill="#70a5fd">GitHub Activity · Last 31 Days</text>
+<line x1="54" y1="220.0" x2="836" y2="220.0" stroke="#34364b" stroke-width="1"/>
+<text x="44" y="224.0" text-anchor="end" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">0</text>
+<line x1="54" y1="176.2" x2="836" y2="176.2" stroke="#34364b" stroke-width="1"/>
+<text x="44" y="180.2" text-anchor="end" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">9</text>
+<line x1="54" y1="132.5" x2="836" y2="132.5" stroke="#34364b" stroke-width="1"/>
+<text x="44" y="136.5" text-anchor="end" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">18</text>
+<line x1="54" y1="88.8" x2="836" y2="88.8" stroke="#34364b" stroke-width="1"/>
+<text x="44" y="92.8" text-anchor="end" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">27</text>
+<line x1="54" y1="45.0" x2="836" y2="45.0" stroke="#34364b" stroke-width="1"/>
+<text x="44" y="49.0" text-anchor="end" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">36</text>
+<text x="54.0" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Sep 27</text>
+<text x="184.3" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 02</text>
+<text x="314.7" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 07</text>
+<text x="445.0" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 12</text>
+<text x="575.3" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 17</text>
+<text x="705.7" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 22</text>
+<text x="836.0" y="242" text-anchor="middle" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Oct 27</text>
+<polygon points="54,220 54.0,220.0 80.1,166.5 106.1,195.7 132.2,190.8 158.3,137.4 184.3,190.8 210.4,210.3 236.5,59.6 262.5,171.4 288.6,176.2 314.7,186.0 340.7,190.8 366.8,171.4 392.9,215.1 418.9,220.0 445.0,195.7 471.1,186.0 497.1,190.8 523.2,176.2 549.3,190.8 575.3,220.0 601.4,210.3 627.5,186.0 653.5,186.0 679.6,166.5 705.7,161.7 731.7,161.7 757.8,220.0 783.9,220.0 809.9,151.9 836.0,220.0 836,220" fill="#70a5fd" fill-opacity=".15"/>
+<polyline points="54.0,220.0 80.1,166.5 106.1,195.7 132.2,190.8 158.3,137.4 184.3,190.8 210.4,210.3 236.5,59.6 262.5,171.4 288.6,176.2 314.7,186.0 340.7,190.8 366.8,171.4 392.9,215.1 418.9,220.0 445.0,195.7 471.1,186.0 497.1,190.8 523.2,176.2 549.3,190.8 575.3,220.0 601.4,210.3 627.5,186.0 653.5,186.0 679.6,166.5 705.7,161.7 731.7,161.7 757.8,220.0 783.9,220.0 809.9,151.9 836.0,220.0" fill="none" stroke="#70a5fd" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="54.0" cy="220.0" r="3" fill="#70a5fd"/>
+<circle cx="80.1" cy="166.5" r="3" fill="#70a5fd"/>
+<circle cx="106.1" cy="195.7" r="3" fill="#70a5fd"/>
+<circle cx="132.2" cy="190.8" r="3" fill="#70a5fd"/>
+<circle cx="158.3" cy="137.4" r="3" fill="#70a5fd"/>
+<circle cx="184.3" cy="190.8" r="3" fill="#70a5fd"/>
+<circle cx="210.4" cy="210.3" r="3" fill="#70a5fd"/>
+<circle cx="236.5" cy="59.6" r="3" fill="#70a5fd"/>
+<circle cx="262.5" cy="171.4" r="3" fill="#70a5fd"/>
+<circle cx="288.6" cy="176.2" r="3" fill="#70a5fd"/>
+<circle cx="314.7" cy="186.0" r="3" fill="#70a5fd"/>
+<circle cx="340.7" cy="190.8" r="3" fill="#70a5fd"/>
+<circle cx="366.8" cy="171.4" r="3" fill="#70a5fd"/>
+<circle cx="392.9" cy="215.1" r="3" fill="#70a5fd"/>
+<circle cx="418.9" cy="220.0" r="3" fill="#70a5fd"/>
+<circle cx="445.0" cy="195.7" r="3" fill="#70a5fd"/>
+<circle cx="471.1" cy="186.0" r="3" fill="#70a5fd"/>
+<circle cx="497.1" cy="190.8" r="3" fill="#70a5fd"/>
+<circle cx="523.2" cy="176.2" r="3" fill="#70a5fd"/>
+<circle cx="549.3" cy="190.8" r="3" fill="#70a5fd"/>
+<circle cx="575.3" cy="220.0" r="3" fill="#70a5fd"/>
+<circle cx="601.4" cy="210.3" r="3" fill="#70a5fd"/>
+<circle cx="627.5" cy="186.0" r="3" fill="#70a5fd"/>
+<circle cx="653.5" cy="186.0" r="3" fill="#70a5fd"/>
+<circle cx="679.6" cy="166.5" r="3" fill="#70a5fd"/>
+<circle cx="705.7" cy="161.7" r="3" fill="#70a5fd"/>
+<circle cx="731.7" cy="161.7" r="3" fill="#70a5fd"/>
+<circle cx="757.8" cy="220.0" r="3" fill="#70a5fd"/>
+<circle cx="783.9" cy="220.0" r="3" fill="#70a5fd"/>
+<circle cx="809.9" cy="151.9" r="3" fill="#70a5fd"/>
+<circle cx="836.0" cy="220.0" r="3" fill="#70a5fd"/>
+<text x="54" y="260" fill="#a9b1d6" font-size="11" font-family="Arial,sans-serif">Daily public contributions · Updated 2026-10-27 UTC</text>
 </svg>
