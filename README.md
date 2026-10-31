@@ -1,7 +1,7 @@
 <h1 align="center">Yehor Yehorychev</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer / SDET</strong><br/>
+  <strong>Software Engineer / SDET</strong><br/>
   Developer Tooling · CI/CD · Mobile · Backend · Automation Infrastructure · Applied AI
 </p>
 
